@@ -1,0 +1,90 @@
+.box {
+    height: 150px;
+    width: 125px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+
+.b {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.header {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#one {
+    background-image: url("/images/1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#two {
+    background-image: url("/images/2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#three {
+    background-image: url("/images/3.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#four {
+    background-image: url("/images/4.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#five {
+    background-image: url("/images/5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#six {
+    background-image: url("/images/6.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#seven {
+    background-image: url("/images/7.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#eight {
+    background-image: url("/images/8.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#nine {
+    background-image: url("/images/9.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#ten {
+    background-image: url("/images/10.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#eleven {
+    background-image: url("/images/11.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#twelve {
+    background-image: url("/images/12.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
